@@ -1,0 +1,6 @@
+/Users/fenerbahce/Downloads/SinemaOtomasyon2/SinemaOtomasyon2/obj/Debug/SinemaOtomasyon2.csproj.AssemblyReference.cache
+/Users/fenerbahce/Downloads/SinemaOtomasyon2/SinemaOtomasyon2/obj/Debug/SinemaOtomasyon2.Form1.resources
+/Users/fenerbahce/Downloads/SinemaOtomasyon2/SinemaOtomasyon2/obj/Debug/SinemaRezarvasyon.Properties.Resources.resources
+/Users/fenerbahce/Downloads/SinemaOtomasyon2/SinemaOtomasyon2/obj/Debug/SinemaOtomasyon2.csproj.GenerateResource.cache
+/Users/fenerbahce/Downloads/SinemaOtomasyon2/SinemaOtomasyon2/obj/Debug/SinemaOtomasyon2.csproj.CoreCompileInputs.cache
+/Users/fenerbahce/Downloads/SinemaOtomasyon2/SinemaOtomasyon2/obj/Debug/SinemaOtomasyon2.Properties.Resources.resources
