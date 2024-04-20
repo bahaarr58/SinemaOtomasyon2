@@ -13,3 +13,16 @@ Bu proje, bir sinema otomasyon uygulamasını simüle eder. Kullanıcılar film 
 4. Rezervasyon Onayı : Koltuk seçimi yapıldıktan sonra, kullanıcı rezervasyon bilgilerini görebileceği bir ekrana yönlendirilir. Kullanıcı buradan rezervasyonunu onaylayabilir.
 
 5. Rezervasyon Tamamlandı : Rezervasyon onayı yapıldıktan sonra, kullanıcı rezervasyonunun tamamlandığına dair bir ekranla karşılaşır.
+
+## Sınıflar 
+
+Müşteri sınıfı, müşteriye ait bilgileri içerir. MusteriAdSoyad, Cinsiyet ve EngelDurumu gibi özellikleri gösterir.
+
+Rezervasyon sınıfı, müşterinin yaptığı rezervasyonu temsil eder. Musteri sınıfından miras alır ve MusteriAdsoyad, BiletAdeti, KoltukNo, Seans gibi özellikleri gösterir .rezervasyon sınıfı musteri sınıfının özelliklerini almıştır.
+
+Film sınıfı, sinema filmleri hakkında bilgi tutar. FilmAdi, FilmTürü ve VizyonTarihi gibi özellikleri gösterir.
+
+Seans sınıfı, sinema seanslarını temsil eder. Seans suresi, salonNo, film gibi özellikleri gösterir.
+
+Salon sınıfı,sinema salon numaralarını temsil eder. salon adi ve salon kapasitesi gibi özellikleri gösterir.
+
